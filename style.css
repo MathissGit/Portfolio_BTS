@@ -65,6 +65,13 @@ body {
     transition: box-shadow;
     background-color: #16161a;
 }
+
+.lien {
+    display: flex;
+    justify-content: space-between;
+}
+
+
 /* 
 .card:hover {
     box-shadow: 
